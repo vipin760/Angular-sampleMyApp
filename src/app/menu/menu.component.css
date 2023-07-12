@@ -1,0 +1,17 @@
+.menu{
+    float: left;
+    background-color:rgb(121, 121, 76);
+    width: 100%;
+}
+.menu li{
+    float:left ;
+    color: aliceblue;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 12px;
+    margin-right: auto;
+    cursor: pointer;
+}
+.menu li:hover{
+    background-color: rgb(63, 63, 5);
+}
